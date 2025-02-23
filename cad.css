@@ -1,0 +1,14 @@
+body{
+    animation: none;
+}
+
+#login{
+    background-color: #ffe8b4;
+    margin-top: 150px;
+    padding: 50px 0 50px 0;
+    height: auto;
+}
+
+.div-register p{
+    margin: 15px 0;
+}

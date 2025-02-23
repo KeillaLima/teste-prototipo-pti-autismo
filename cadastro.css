@@ -1,0 +1,11 @@
+body{
+    animation: none;
+}
+
+#login{
+    background-color: #ffe8b4;
+}
+
+.div-register p{
+    margin: 15px 0;
+}
